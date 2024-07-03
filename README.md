@@ -89,3 +89,10 @@ Initializes the contract with the addresses of the DUN token, WETH token, WBTC t
     - `token`: The address of the token (WETH or WBTC).
   - **Returns**:
     - The price of the token in USD.
+
+## Team Members:
+
+- ### Khush Maheshwari
+- ### Muskan
+- ### Pranav Krishna
+
